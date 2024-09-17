@@ -20,4 +20,4 @@ The Heart Disease Analysis project involves analyzing a dataset related to heart
 - Identified critical factors contributing to heart disease.
 - Gained insights that can aid in early diagnosis and prevention.
 
-**LinkedIn Link:** 
+**LinkedIn Link:** https://www.linkedin.com/posts/santosh-patel-375140269_mainflow-internship-task5-activity-7241850088082317313-0ATC?utm_source=share&utm_medium=member_desktop
